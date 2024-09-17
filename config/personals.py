@@ -18,9 +18,9 @@ GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
 # >>>>>>>>>>> Easy Apply Questions & Inputs <<<<<<<<<<<
 
 # Your legal name
-first_name = "Sai"                 # Your first name in quotes Eg: "First", "Sai"
-middle_name = "Vignesh"            # Your name in quotes Eg: "Middle", "Vignesh", ""
-last_name = "Golla"                # Your last name in quotes Eg: "Last", "Golla"
+first_name = "Mukesh"                 # Your first name in quotes Eg: "First", "Sai"
+middle_name = ""            # Your name in quotes Eg: "Middle", "Vignesh", ""
+last_name = "Singh"                # Your last name in quotes Eg: "Last", "Golla"
 
 # Phone number (required), make sure it's valid.
 phone_number = "9876543210"        # Enter your 10 digit number in quotes Eg: "9876543210"
